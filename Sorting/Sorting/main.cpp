@@ -4,11 +4,6 @@ void InsertSort()
 {
 	int arrData[] = { 8,1,7,4,2,3,9,5,6 };
 
-	int* a;
-	int* b;
-	int temp;
-
-
 	//-------------------------------
 	//배열을 정렬되도록 로직을 짜기
 	for (int i = 0; i < 9; i++)
